@@ -1,0 +1,10 @@
+C:\Users\THOKOZANI\source\repos\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\THOKOZANI\source\repos\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\THOKOZANI\source\repos\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\THOKOZANI\source\repos\Registration\Registration\obj\Debug\Registration.pdb
